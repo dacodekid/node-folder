@@ -1,7 +1,7 @@
 {
   "name": "node-folder",
-  "version": "0.5.0",
-  "description": "A simple extension of mkdirp with brace-expansion",
+  "version": "0.5.1",
+  "description": "A simple extension of mkdirp with brace-expansion to create multi-level & recursive folders.",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test --watch"
